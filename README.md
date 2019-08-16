@@ -4,5 +4,5 @@ Cześć, w tym folderze będą wrzucane skrytpy C# do Unity.
 
 ## Autorzy
 
-* @BitterSmile
-* @pstorozenko
+* [Hubert Mattusch](https://github.com/BitterSmile)
+* [Piotr Pasza Storożenko](https://github.com/pstorozenko)
